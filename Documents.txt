@@ -1,0 +1,5 @@
+Cookiecutter - https://drivendata.github.io/cookiecutter-data-science/
+DVC - https://mlflow.org/docs/latest/index.html
+MLFLOW - https://dvc.org/doc
+MLOps: Continuous delivery and automation pipelines in machine learning - https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=en
+Python logging module - https://docs.python.org/3/howto/logging.html 
